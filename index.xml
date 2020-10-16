@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Givaldo Silva</title>
-    <link>https://github.com/givaldofrancisco/portfolio/</link>
+    <link>https://givaldofrancisco.github.io/portfolio/</link>
     <description>Recent content in Data Science Portfolio on Givaldo Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/givaldofrancisco/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 5 Forex Profiles</title>
-      <link>https://github.com/givaldofrancisco/portfolio/post/chapter-1/</link>
+      <link>https://givaldofrancisco.github.io/portfolio/post/chapter-1/</link>
       <pubDate>Sat, 12 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/givaldofrancisco/portfolio/post/chapter-1/</guid>
+      <guid>https://givaldofrancisco.github.io/portfolio/post/chapter-1/</guid>
       <description>&amp;ldquo;All models are wrong, but some are useful&amp;rdquo;, George E. P. Box. This is especially true considering the chaotic environment of forex exchange market, any prediction seems very hard because of huge number of variables, it can be compared it with chaos theory, which says: the flapping of wings of a simple butterfly could influence the natural course of things and, thus, perhaps cause a typhoon on the other side of the world.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/givaldofrancisco/portfolio/contact/</link>
+      <link>https://givaldofrancisco.github.io/portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/givaldofrancisco/portfolio/contact/</guid>
+      <guid>https://givaldofrancisco.github.io/portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     Twitter: https://twitter.com/givaldofrancisc   LinkedIn: https://www.linkedin.com/in/givaldo-silva-jr/   GitHub: https://GitHub.com/givaldofrancisco    </description>
     </item>
