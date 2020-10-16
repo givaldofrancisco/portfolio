@@ -13,7 +13,7 @@
       <pubDate>Sat, 12 Sep 2020 10:58:08 -0400</pubDate>
       
       <guid>https://givaldofrancisco.github.io/portfolio/post/chapter-1/</guid>
-      <description>&amp;ldquo;All models are wrong, but some are useful&amp;rdquo;, George E. P. Box. This is especially true considering the chaotic environment of forex exchange market, any prediction seems very hard because of huge number of variables, it can be compared it with chaos theory, which says: the flapping of wings of a simple butterfly could influence the natural course of things and, thus, perhaps cause a typhoon on the other side of the world.</description>
+      <description>Social media provide a lot of information that can be used to interpret sentiment of the market and it can help to predict currency price, a lot of Twitter profiles attract thousands of followers giving them “Signals”, information about the forex market if they should buy, sell or be neutral. The main goal of this project is to find the best 5 profiles on Twitter regarding forex financial market, the profiles with higher accuracy in their prediction.</description>
     </item>
     
   </channel>
