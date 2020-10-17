@@ -17,9 +17,18 @@
     </item>
     
     <item>
+      <title>Image classification</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project4/</guid>
+      <description>The objective of this project is to build a machine learning Cat/Dog image classifier. A system to classify whether images contain either a dog or a cat will be implemented. Normalization. Images are created by pixels, each pixel represent a color dot in the imagine, and a digital image are made by number, each number is a pixel and it goes from 0 to 255 divided into 3 colors, as all images have very different tons the number are totally different, when we normalize it, we just put it in the same scale, this makes convergence faster while training the network.</description>
+    </item>
+    
+    <item>
       <title>Predicting diabetes</title>
       <link>https://givaldofrancisco.github.io/portfolio/post/project3/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://givaldofrancisco.github.io/portfolio/post/project3/</guid>
       <description>In this modern time, we have a much easier life than some decades ago, but it also brought some problems, life is so fast that sometimes we don’t have enough time to prepare healthy food, we eat fast food and don’t practice physical activities. Diabetes is one of the most common diseases in our era, affecting millions of people of all ages over the world. Diabetes affects people when they have a high level of blood glucose, this can happen for problems to produce insulin.</description>
