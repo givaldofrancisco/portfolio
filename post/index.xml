@@ -9,11 +9,20 @@
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 5 Forex Profiles</title>
-      <link>https://givaldofrancisco.github.io/portfolio/post/chapter-1/</link>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project1/</link>
       <pubDate>Sat, 12 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://givaldofrancisco.github.io/portfolio/post/chapter-1/</guid>
-      <description>Social media provide a lot of information that can be used to interpret sentiment of the market and it can help to predict currency price, a lot of Twitter profiles attract thousands of followers giving them “Signals”, information about the forex market if they should buy, sell or be neutral. The main goal of this project is to find the best 5 profiles on Twitter regarding forex financial market, the profiles with higher accuracy in their prediction.</description>
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project1/</guid>
+      <description>Social media provide a lot of information that can be used to interpret sentiment of the market and it can help to predict the exchange rate, a lot of Twitter profiles attract thousands of followers giving them “Signals”, information about the forex market, these profiles tell them when they should buy, sell, or be neutral. The main goal of this project is to find the best 5 profiles on Twitter regarding forex financial market, the profiles with higher accuracy in their prediction.</description>
+    </item>
+    
+    <item>
+      <title>Spam detector</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project2/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project2/</guid>
+      <description>A lot of words, symbols and sometimes numbers are not good for prediction, actually it can have a negative effect in the algorithms, then, we need to clean as much as possible and try to get just the key words that really represent a Spam or ham email. https://givaldo.shinyapps.io/project/</description>
     </item>
     
   </channel>

@@ -24,8 +24,15 @@
   </url>
   
   <url>
-    <loc>https://givaldofrancisco.github.io/portfolio/post/chapter-1/</loc>
+    <loc>https://givaldofrancisco.github.io/portfolio/post/project1/</loc>
     <lastmod>2020-09-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://givaldofrancisco.github.io/portfolio/post/project2/</loc>
+    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
