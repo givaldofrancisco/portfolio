@@ -44,6 +44,16 @@
     </item>
     
     <item>
+      <title>NLP [ Python ]</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project9/</link>
+      <pubDate>Tue, 06 Nov 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project9/</guid>
+      <description>Natural language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.
+https://github.com/givaldofrancisco/NLP/blob/main/NLP_nltk%20.ipynb</description>
+    </item>
+    
+    <item>
       <title>Numpy | Pandas | MatplotLib [ Python ]</title>
       <link>https://givaldofrancisco.github.io/portfolio/post/project8/</link>
       <pubDate>Sat, 21 Jul 2018 10:58:08 -0400</pubDate>
