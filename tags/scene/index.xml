@@ -44,6 +44,16 @@
     </item>
     
     <item>
+      <title>Randon Forest</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project7/</link>
+      <pubDate>Sat, 21 Jul 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project7/</guid>
+      <description>Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean/average prediction (regression) of the individual trees.
+https://github.com/givaldofrancisco/randon_forest/blob/main/Random-Forest-Python.ipynb</description>
+    </item>
+    
+    <item>
       <title>Logistic Regression</title>
       <link>https://givaldofrancisco.github.io/portfolio/post/project6/</link>
       <pubDate>Thu, 21 Jun 2018 10:58:08 -0400</pubDate>
