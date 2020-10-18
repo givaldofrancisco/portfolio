@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Top 5 Forex Profiles [ R ]</title>
+      <title>Top 5 Forex Profiles [ R &#43; Shiny]</title>
       <link>https://givaldofrancisco.github.io/portfolio/post/project1/</link>
       <pubDate>Sat, 12 Sep 2020 10:58:08 -0400</pubDate>
       
@@ -41,6 +41,16 @@
       
       <guid>https://givaldofrancisco.github.io/portfolio/post/project2/</guid>
       <description>A lot of words, symbols and sometimes numbers are not good for prediction, actually it can have a negative effect in the algorithms, then, we need to clean as much as possible and try to get just the key words that really represent a Spam or ham email. https://github.com/givaldofrancisco/spam_detector/blob/main/Assignment%201%20-%20%20V4.ipynb</description>
+    </item>
+    
+    <item>
+      <title>Image manipulation [ Python ]</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project10/</link>
+      <pubDate>Tue, 06 Nov 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project10/</guid>
+      <description>Using numpy, scipy and matplotlib to manipulate image
+https://github.com/givaldofrancisco/image_manipulation/blob/main/Image_manipulation.ipynb</description>
     </item>
     
     <item>
