@@ -6,7 +6,17 @@
     <description>Recent content in scene on Givaldo Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analysis [ Excel ]</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project11/</link>
+      <pubDate>Fri, 06 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project11/</guid>
+      <description>Using Excel to analyze a sales data set
+https://github.com/givaldofrancisco/image_manipulation/blob/main/Image_manipulation.ipynb</description>
+    </item>
+    
     <item>
       <title>Top 5 Forex Profiles [ R &#43; Shiny]</title>
       <link>https://givaldofrancisco.github.io/portfolio/post/project1/</link>
