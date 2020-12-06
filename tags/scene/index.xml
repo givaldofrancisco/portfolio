@@ -6,17 +6,7 @@
     <description>Recent content in scene on Givaldo Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Data Analysis [ Excel &#43; PowerBI &#43; R]</title>
-      <link>https://givaldofrancisco.github.io/portfolio/post/project11/</link>
-      <pubDate>Fri, 06 Nov 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://givaldofrancisco.github.io/portfolio/post/project11/</guid>
-      <description>Using Excel to analyze a sales data set
-https://github.com/givaldofrancisco/Excel</description>
-    </item>
-    
+    <lastBuildDate>Sat, 12 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://givaldofrancisco.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 5 Forex Profiles [ R &#43; Shiny]</title>
       <link>https://givaldofrancisco.github.io/portfolio/post/project1/</link>
@@ -24,6 +14,16 @@ https://github.com/givaldofrancisco/Excel</description>
       
       <guid>https://givaldofrancisco.github.io/portfolio/post/project1/</guid>
       <description>Social media provide a lot of information that can be used to interpret sentiment of the market and it can help to predict the exchange rate, a lot of Twitter profiles attract thousands of followers giving them “Signals”, information about the forex market, these profiles tell them when they should buy, sell, or be neutral. The main goal of this project is to find the best 5 profiles on Twitter regarding forex financial market, the profiles with higher accuracy in their prediction.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis [ Excel &#43; PowerBI &#43; R]</title>
+      <link>https://givaldofrancisco.github.io/portfolio/post/project11/</link>
+      <pubDate>Thu, 10 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://givaldofrancisco.github.io/portfolio/post/project11/</guid>
+      <description>Using Excel to analyze a sales data set.
+https://github.com/givaldofrancisco/Excel</description>
     </item>
     
     <item>
